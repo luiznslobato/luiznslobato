@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, aqui é o Luiz! 👋
+> Meu nome é Luiz Nonato Silva Lobato, tenho 27 anos, sou Desenvolvedor Back-End Node.js, gosto de focar em melhorias constantes no trabalho, nos estudos e na vida pessoal.
+> Sou fissurado em ciência e tecnologia, deste pequeno tenho curiosidade em entender como as coisas funcionam, quando criança sempre estava desmontando os meus brinquedos para entender como eram os seus mecanismos por dentro. Essa curiosidade de entender como as coisas funcionam e a vontade de construir soluções me fez escolher ser um desenvolvedor de software.
+>
+> Atualmente estudo Desenvolvimento de Software Back-End na Cubos Academy, onde estou adquirindo e praticando conhecimentos em: JavaScript, Node.js e SQL.
 
-<!--
-**luiznslobato/luiznslobato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
+> [![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,vscode,npm,express,git,github,linux)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Git Stats
+> ![](https://github-readme-streak-stats.herokuapp.com/?user=luiznslobato&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
+![](https://github-readme-stats.vercel.app/api?username=luiznslobato&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark)
+> 
+[![](https://visitcount.itsvg.in/api?id=luiznslobato&icon=0&color=0)](https://visitcount.itsvg.in)
