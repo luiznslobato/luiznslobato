@@ -1,11 +1,17 @@
 ## Olá, aqui é o Luiz! 👋
-> Meu nome é Luiz Nonato Silva Lobato, tenho 27 anos, sou Desenvolvedor Back-End Node.js, gosto de focar em melhorias constantes no trabalho, nos estudos e na vida pessoal.
-> Sou fissurado em ciência e tecnologia, deste pequeno tenho curiosidade em entender como as coisas funcionam, quando criança sempre estava desmontando os meus brinquedos para entender como eram os seus mecanismos por dentro. Essa curiosidade de entender como as coisas funcionam e a vontade de construir soluções me fez escolher ser um desenvolvedor de software.
+
+> Sou Desenvolvedor Full Stack, gosto de focar em melhorias constantes no trabalho, nos estudos e na vida pessoal. Sou fissurado em ciência e tecnologia, deste pequeno tenho curiosidade em entender como as coisas funcionam, quando criança sempre estava desmontando os meus brinquedos para entender como eram os seus mecanismos por dentro. Essa curiosidade de entender como as coisas funcionam e a vontade de construir soluções me fez escolher ser um desenvolvedor de software.
 >
-> Atualmente estudo Desenvolvimento de Software Back-End na Cubos Academy, onde estou adquirindo e praticando conhecimentos em: JavaScript, Node.js e SQL.
+> Atualmente estudo:
+>
+> Desenvolvimento Back End na Cubos Academy, onde estou adquirindo e praticando conhecimentos em: 
+Lógica de Programação, JavaScript, Node.JS, Banco de Dados, SQL, Git, GitHub, Metodologias Ágeis e Soft Skills.
+>
+> Desenvolvimento Full Stack na +praTi, onde estou adquirindo e praticando conhecimentos em: 
+Lógica de Programação, JavaScript, Git, Github, NodeJS, HTML, CSS, ReactJS, Java, Spring Boot, SQL, Banco de Dados, Metodologias Ágeis, Testes Unitários.
 
 #### Skills
-> [![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,vscode,npm,express,git,github,linux)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,react,html,css,mysql,postgres,vscode,npm,express,git,github,linux)](https://skillicons.dev)
 
 #### Git Stats
 
