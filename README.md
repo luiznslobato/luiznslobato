@@ -11,7 +11,7 @@ Lógica de Programação, JavaScript, Node.JS, Banco de Dados, SQL, Git, GitHub,
 Lógica de Programação, JavaScript, Git, Github, NodeJS, HTML, CSS, ReactJS, Java, Spring Boot, SQL, Banco de Dados, Metodologias Ágeis, Testes Unitários.
 
 #### Skills
-> [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,react,html,css,mysql,postgres,vscode,npm,express,git,github,linux)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,react,html,css,mysql,postgres,vscode,git,github,linux)](https://skillicons.dev)
 
 #### Git Stats
 
