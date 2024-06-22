@@ -10,7 +10,7 @@ Lógica de Programação, JavaScript, Node.JS, Banco de Dados, SQL, Git, GitHub,
 > Desenvolvimento Full Stack na +praTi, onde estou adquirindo e praticando conhecimentos em: 
 Lógica de Programação, JavaScript, Git, Github, NodeJS, HTML, CSS, ReactJS, Java, Spring Boot, SQL, Banco de Dados, Metodologias Ágeis, Testes Unitários.
 
-#### My Skills
+#### Skills and Tools
 > [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,react,html,css,mysql,postgres,vscode,git,github,linux)](https://skillicons.dev)
 
 #### Git Stats
